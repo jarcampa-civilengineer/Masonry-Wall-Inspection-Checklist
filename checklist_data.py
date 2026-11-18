@@ -1,0 +1,20 @@
+# General checklist prompts; project-specific acceptance criteria take precedence.
+CHECKLIST = [
+    {"id":"PRE-01","category":"Pre-installation","description":"Approved drawings, specifications and inspection requirements are available."},
+    {"id":"PRE-02","category":"Pre-installation","description":"Substrate/supporting surface is clean, sound and properly prepared."},
+    {"id":"MAT-01","category":"Materials","description":"Masonry units match approved submittals and are free of significant damage."},
+    {"id":"MAT-02","category":"Materials","description":"Mortar type and materials match approved submittals."},
+    {"id":"LAY-01","category":"Layout","description":"Wall location, dimensions, openings and elevations match approved drawings."},
+    {"id":"LAY-02","category":"Layout","description":"First course is properly aligned and level."},
+    {"id":"WRK-01","category":"Workmanship","description":"Bond pattern and coursing comply with approved drawings."},
+    {"id":"WRK-02","category":"Workmanship","description":"Bed and head joints are filled as required by project specifications."},
+    {"id":"WRK-03","category":"Workmanship","description":"Joint thickness and tooling are consistent with project requirements."},
+    {"id":"WRK-04","category":"Workmanship","description":"Wall alignment, plumbness and level are within specified tolerances."},
+    {"id":"REI-01","category":"Reinforcement / Grout","description":"Reinforcing bar size, spacing, position and lap comply with drawings."},
+    {"id":"REI-02","category":"Reinforcement / Grout","description":"Cells and grout spaces are clear before grout placement, where applicable."},
+    {"id":"REI-03","category":"Reinforcement / Grout","description":"Grout placement and consolidation follow project requirements."},
+    {"id":"CON-01","category":"Connections","description":"Ties, anchors and connections are installed at specified locations and spacing."},
+    {"id":"CON-02","category":"Connections","description":"Control joints and movement joints are installed as detailed."},
+    {"id":"FIN-01","category":"Final review","description":"Wall is free of significant visible cracks, voids and workmanship defects."},
+    {"id":"FIN-02","category":"Final review","description":"Required curing, protection and housekeeping measures are in place."},
+]
